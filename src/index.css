@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Lato', sans-serif;
+font-family: 'Source Sans 3', sans-serif;
+font-family: 'Urbanist', sans-serif;
+
+}
