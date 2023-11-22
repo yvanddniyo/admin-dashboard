@@ -13,9 +13,11 @@ const Sidebar = () => {
         <div className="sidebarmenu mb-[10px] ">
           <h3 className="sidebarTitle text-[13px] text-gray-400 ">Dashboard</h3>
           <ul className="sidebarList list-none p-1">
-            <li className="sidebarListitem  p-1 cursor-pointer flex items-center bg-gray-300 hover:bg-gray-300 rounded-[10px]">
-              < LineStyle className='mr-3 text-[20px]' /> Home
-            </li>
+            <Link to='/'>
+              <li className="sidebarListitem  p-1 cursor-pointer flex items-center bg-gray-300 hover:bg-gray-300 rounded-[10px]">
+                < LineStyle className='mr-3 text-[20px]' /> Home
+              </li>
+            </Link>
             <li className="sidebarListitem p-1 cursor-pointer flex items-center active:bg-gray-300 hover:bg-gray-300 rounded-[10px]">
               < Timeline className='mr-3 text-[20px]' /> Analytics
             </li>
