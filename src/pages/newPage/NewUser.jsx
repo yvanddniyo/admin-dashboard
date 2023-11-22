@@ -9,42 +9,42 @@ const NewUser = () => {
           <label className='mb-3 text-[14px] font-bold text-gray-400'>Username</label>
           <input type="text" name="" id=""
             placeholder='john'
-            className='border h-5 p-5 border-gray-500 rounded-sm'
+            className='border h-5 p-5 border-gray-500 rounded-md'
           />
         </div>
         <div className="newuserItem w-[400px] flex flex-col mr-5">
           <label className='mb-3 text-[14px] font-bold text-gray-400'>Email</label>
           <input type="text" name="" id=""
             placeholder='john@gmail.com'
-            className='border h-5 p-5 border-gray-500 rounded-sm'
+            className='border h-5 p-5 border-gray-500 rounded-md'
           />
         </div>
         <div className="newuserItem w-[400px] flex flex-col mr-5">
           <label className='mb-3 text-[14px] font-bold text-gray-400'>Phone</label>
           <input type="text" name="" id=""
             placeholder='+250 780 376 941'
-            className='border h-5 p-5 border-gray-500 rounded-sm'
+            className='border h-5 p-5 border-gray-500 rounded-md'
           />
         </div>
         <div className="newuserItem w-[400px] flex flex-col mr-5">
           <label className='mb-3 text-[14px] font-bold text-gray-400'>Full Name</label>
           <input type="text" name="" id=""
             placeholder='John Smith'
-            className='border h-5 p-5 border-gray-500 rounded-sm'
+            className='border h-5 p-5 border-gray-500 rounded-md'
           />
         </div>
         <div className="newuserItem w-[400px] flex flex-col mr-5">
           <label className='mb-3 text-[14px] font-bold text-gray-400'>Password</label>
           <input type="text" name="" id=""
             placeholder='password'
-            className='border h-5 p-5 border-gray-500 rounded-sm'
+            className='border h-5 p-5 border-gray-500 rounded-md'
           />
         </div>
         <div className="newuserItem w-[400px] flex flex-col mr-5">
           <label className='mb-3 text-[14px] font-bold text-gray-400'>Address</label>
           <input type="text" name="" id=""
             placeholder='Butare | Rwanda'
-            className='border h-5 p-5 border-gray-500 rounded-sm'
+            className='border h-5 p-5 border-gray-500 rounded-md'
           />
         </div>
         <div className='newUserItem w-[400px] flex flex-col mr-5'>
